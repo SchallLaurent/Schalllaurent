@@ -21,7 +21,7 @@ const aboutMe = {
 📈 Toujours en quête de nouveaux défis dans l'écosystème JS/TS !  
 💬 Ouvert aux collaborations et aux projets innovants
 
-[![Activité GitHub](https://activity-graph.herokuapp.com/graph?username=SchallLaurent&theme=minimal)](https://github.com/SchallLaurent)
+[![Activité GitHub](https://activity-graph.herokuapp.com/graph?username=Schalllaurent&theme=minimal)](https://github.com/SchallLaurent)
 
 ## 🌐 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/laurent-schall-fonteilles-703b60194/) 
