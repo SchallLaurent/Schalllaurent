@@ -86,21 +86,6 @@ const aboutMe = {
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&logo=Trello&logoColor=white)
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=SchallLaurent&theme=default&hide_border=false&include_all_commits=false&count_private=false)
-  
-![](https://github-readme-streak-stats.herokuapp.com/?user=SchallLaurent&theme=default&hide_border=false)
-  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SchallLaurent&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-</div>
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=SchallLaurent&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 
