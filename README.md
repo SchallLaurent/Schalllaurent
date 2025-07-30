@@ -61,6 +61,7 @@ const aboutMe = {
 ### 🗄️ Databases & Servers
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=Sequelize&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-52B0E7?style=flat-square&logo=Prisma&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white)
 
 ### 🚀 DevOps & Tools
