@@ -1,33 +1,30 @@
-# 💫 À propos
-> "Le code est comme l'humour. Quand on doit l'expliquer, c'est mauvais." – Cory House
+# 💫 About
+> "Code is like humor. When you have to explain it, it's bad." – Cory House
 
 ```typescript
 const aboutMe = {
-    role: "Développeur Web Fullstack",
-    experience: "1 an",
+    role: "Fullstack Web Developer",
+    experience: "1 year",
     skills: ["JavaScript", "TypeScript", "Innovation"],
-    passions: ["Automatisation", "Optimisation", "Nouvelles technologies"]
+    passions: ["Automation", "Optimization", "New technologies"]
 };
 ```
 
-👨‍💻 Développeur web passionné | 🌟 JavaScript & TypeScript  
-🚀 1 an d'expérience en développement  
-💡 Expert en gestion de projets  
-🔍 Esprit analytique & optimisation  
-⚡ Passionné par l'automatisation  
-🎯 Focus sur l'innovation technologique  
+👨‍💻 Passionate web developer | 🌟 JavaScript & TypeScript  
+🚀 2 years of development experience  
+🔍 Analytical mindset & optimization  
+⚡ Passionate about automation  
+🎯 Focus on technological innovation  
 
-🔥 **Objectif** : Évoluer en tant que développeur fullstack sur des projets techniques ambitieux  
-📈 Toujours en quête de nouveaux défis dans l'écosystème JS/TS !  
-💬 Ouvert aux collaborations et aux projets innovants
-
-
+🔥 **Goal**: Evolve as a fullstack developer on ambitious technical projects  
+📈 Always seeking new challenges in the JS/TS ecosystem!  
+💬 Open to collaborations and innovative projects
 
 ## 🌐 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/laurent-schall-fonteilles-703b60194/) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:laurentschallfonteilles@gmail.com)
 
-## 💻 Stack Technique
+## 💻 Tech Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) 
@@ -61,12 +58,12 @@ const aboutMe = {
 ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=flat-square&logo=pnpm&logoColor=f69220)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white)
 
-### 🗄️ Bases de données & Serveurs
+### 🗄️ Databases & Servers
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=Sequelize&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white)
 
-### 🚀 DevOps & Outils
+### 🚀 DevOps & Tools
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white)
@@ -74,18 +71,17 @@ const aboutMe = {
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
 
-### 🛠️ Outils de développement
+### 🛠️ Development Tools
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat-square&logo=swagger&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat-square&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=flat-square&logo=prettier&logoColor=black)
 
-### 📊 Gestion de projet
+### 📊 Project Management
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&logo=Trello&logoColor=white)
-
 
 ### 🔝 Top Contributed Repo
 
