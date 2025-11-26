@@ -4,7 +4,7 @@
 ```typescript
 const aboutMe = {
     role: "Fullstack Web Developer",
-    experience: "1 year",
+    experience: "2 years",
     skills: ["JavaScript", "TypeScript", "Innovation"],
     passions: ["Automation", "Optimization", "New technologies"]
 };
